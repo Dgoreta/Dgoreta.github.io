@@ -1,5 +1,5 @@
 {
-  "name": "My First PWA",
+  "name": "Moja Prva PWA aplikacija",
   "short_name": "First PWA",
   "icons": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "lang": "hr",
-  "start_url": "/index.html",
+  "start_url": "/PWA_index.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"

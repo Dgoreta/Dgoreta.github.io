@@ -1,5 +1,5 @@
-let cacheName = "my-first-pwa";
-let filesToCache = ["/", "/index.html", "/css/style.css", "/js/main.js"];
+let cacheName = "Moja Prva PWA aplikacija";
+let filesToCache = ["/", "/PWA_index.html", "/css/style.css", "/js/main.js"];
 
 /* Start the service worker and cache all of the app's content */
 self.addEventListener("install", (e) => {
